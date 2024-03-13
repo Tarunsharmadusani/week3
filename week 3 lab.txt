@@ -1,0 +1,10 @@
+
+
+Greeting = 'hello'
+name = 'Tarun'
+
+message = f"greeting"," Tarun" "welcome"
+
+print(message)
+
+
